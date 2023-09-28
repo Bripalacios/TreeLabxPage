@@ -1,0 +1,10 @@
+.alingButton{
+display: flex;
+justify-content: flex-end;
+width: 80%;
+}
+
+.letra{
+font-family: 'Montserrat', sans-serif;
+color: white;
+}
